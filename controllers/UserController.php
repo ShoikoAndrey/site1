@@ -35,4 +35,9 @@ class UserController {
         print_r($users_array);
     }
 
+    function actionIndex() {
+
+        include ROOT . '\administrator\view\index.php';
+    }
+
 }

@@ -9,5 +9,6 @@ return array(
 */
 
 return array(
-    'administrator/users'=>'user/list'
+    'administrator/users'=>'user/list',
+    'administrator/index'=>'user/index'
 );
